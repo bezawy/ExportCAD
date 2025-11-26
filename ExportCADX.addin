@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<RevitAddIns SDK="2.0">
+	<AddIn Type="Command">
+		<Name>ExportCADX.MainCommand</Name>
+		<Assembly>ExportCADX/ExportCADX.dll</Assembly>
+		<AddInId>
+			F74F778E-9BC2-46EC-B403-34D2EB039D3C
+
+		</AddInId>
+		<FullClassName>AGECSRVTCAD.MainCommand</FullClassName>
+		<VendorId>AGECS</VendorId>
+		<Text>ExportCADX.MainCommand</Text>
+		<VendorDescription>CDX</VendorDescription>
+
+	</AddIn>
+</RevitAddIns>
